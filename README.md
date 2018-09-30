@@ -1,2 +1,1 @@
 # karmabiatch
-Struktur Data
