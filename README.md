@@ -1,1 +1,1 @@
-# karmabiatch
+# struktur_data_praktikum
